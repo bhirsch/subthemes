@@ -1,0 +1,3 @@
+<?php
+
+include_once('crimson_subtheme.features.inc');
